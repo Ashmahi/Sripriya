@@ -1,2 +1,2 @@
-# VDP.website
+# Sripriya
 It contains website code  about VDP 
